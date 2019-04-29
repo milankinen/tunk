@@ -55,5 +55,14 @@
       "json",
       "node"
     ]
+  },
+  "dependencies": {
+    "@babel/generator": "^7.4.0",
+    "@babel/parser": "^7.4.3",
+    "@babel/template": "^7.4.0",
+    "@babel/traverse": "^7.4.3",
+    "@babel/types": "^7.4.0",
+    "@types/lodash": "^4.14.123",
+    "lodash": "^4.17.11"
   }
 }
